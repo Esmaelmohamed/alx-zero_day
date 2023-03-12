@@ -1,1 +1,1 @@
-# alx-zero_day
+# how to be up to date in git
